@@ -3,8 +3,8 @@ import { View, Text, Image, TextInput, TouchableOpacity } from 'react-native';
 
 import { styles } from './styles';
 
-import logo from '../assets/logo.png';
-import plus from '../assets/plus.png';
+import logo from '../../assets/logo.png';
+import plus from '../../assets/plus.png';
 
 export function Home() {
   return(
